@@ -33,3 +33,6 @@ Deployment:
 
 Deploy the trained model to predict sentiment on new, unseen text data.
 Use techniques like model saving and loading (e.g., with joblib or pickle in Python) and integration with web services or APIs.
+
+
+In this project I have used Data from Udemy about restaurant reviews and used a classification model to predict is the given text is positive or negative. 
